@@ -1,4 +1,4 @@
-![Header](./images/github-header-image (1))
+![Header](./images/github-header-image (1).png)
 
 # 💫 About Me:
 I'm CSE student at shiraz university
