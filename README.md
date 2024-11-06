@@ -1,7 +1,7 @@
 ![Header](images/github-header-image.png)
 
 # 💫 About Me:
-I'm CSE student at shiraz university
+I'm CSE student at Shiraz University
 
 
 ## 🌐 Socials:
